@@ -3,3 +3,4 @@ simpy
 test2
 numpy
 pandas
+dill
